@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.29"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Lee_distance___path",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Lee_distance___path::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Lee_distance___path-Debug-b9e16e27cce4aff54d9f.json",
+					"name" : "Lee_distance___path",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/Admin/OneDrive - University of Luxembourg/Documents/CLion Projects/optimized/graph/Lee distance + path/cmake-build-debug",
+		"source" : "C:/Users/Admin/OneDrive - University of Luxembourg/Documents/CLion Projects/optimized/graph/Lee distance + path"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 8
+	}
+}
