@@ -1,2 +1,2 @@
 - Vasile Miron BiCS Year 3
-- Vlad Colibasanu BiCS Year 1
+- Vlad Colibășanu BiCS Year 1
