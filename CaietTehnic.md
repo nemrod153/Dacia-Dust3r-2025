@@ -35,6 +35,6 @@
   - std::transform, fill, fill_n, move, copy, copy_if, replace, replace_if, remove, remove_if;
   - unique, reverse. rotate, shuffle;
   - std::accumulate, iota;
-
+- C++ Strategies:
 
 ### MORE TO COME
