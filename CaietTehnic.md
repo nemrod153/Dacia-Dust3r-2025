@@ -28,5 +28,13 @@
   - primitives; int8_t; int_fast32_t;
   - modifiers (const, constexpr, static_cast);
   - expresii utile (std::optional<T\>, std::numeric_limits <T\> și parametrii)
+- C++ Containers:
+  - vector; set; map; multiset; multimap; unordered_set; unordered_map; dequeue
+  - stable_sort, partial_sort; is_sorted, lower_bound, upper_bound, binary_search, count, count_if;
+  - all_of, any_of, none_of, min_element, max_element, minmax_element;
+  - std::transform, fill, fill_n, move, copy, copy_if, replace, replace_if, remove, remove_if;
+  - unique, reverse. rotate, shuffle;
+  - std::accumulate, iota;
+
 
 ### MORE TO COME
