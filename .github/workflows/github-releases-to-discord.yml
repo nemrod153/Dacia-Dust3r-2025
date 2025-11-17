@@ -13,7 +13,7 @@ jobs:
       - name: Format Discord message
         id: vars
         run: |
-          echo "MESSAGE=New push to \`${{ github.ref_name }}\` in **${{ github.repository }}** by **${{ github.actor }}**%0A<https://github.com/${{ github.repository }}/commit/${{ github.sha }}>%0AMessage: ${{ github.event.head_commit.message }}" >> $GITHUB_OUTPUT
+          echo "MESSAGE=New push to \`${{ github.ref_name }}\` in **${{ github.repository }}** by **${{ github.actor }}** : ${{ github.event.head_commit.message }}" >> $GITHUB_OUTPUT
 
       - name: Send notification to Discord
         run: |
