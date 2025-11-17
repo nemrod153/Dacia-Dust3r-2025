@@ -24,7 +24,7 @@
 
 ## Concepte teoretice
 
-- C++ types and modifiers
+- C++ types and modifiers:
   - primitives; int8_t; int_fast32_t;
   - modifiers (const, constexpr, static_cast);
   - expresii utile (std::optional<T\>, std::numeric_limits <T\> și parametrii)
