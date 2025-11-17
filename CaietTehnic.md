@@ -1,6 +1,6 @@
 # Caiet tehnic:
 
-### Graph Algorithms
+## Graph Algorithms
 - Breadth-First Search; PE REPO
 - Depth-First Search; PE REPO
 
@@ -22,11 +22,11 @@
     - Prim;
 
 
-### Concepte teoretice
+## Concepte teoretice
 
 - C++ types and modifiers
   - primitives; int8_t; int_fast32_t;
   - modifiers (const, constexpr, static_cast);
   - expresii utile (std::optional<T\>, std::numeric_limits <T\> și parametrii)
 
-## MORE TO COME
+### MORE TO COME
