@@ -36,5 +36,8 @@
   - unique, reverse. rotate, shuffle;
   - std::accumulate, iota;
 - C++ Strategies:
+  - custom types (enum class) și declarații de operatori;
+  - struct union, struct std::variant și funcții atașate;
+  - algorithms library;
 
 ### MORE TO COME
