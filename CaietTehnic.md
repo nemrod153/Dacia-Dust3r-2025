@@ -39,5 +39,14 @@
   - custom types (enum class) și declarații de operatori;
   - struct union, struct std::variant și funcții atașate;
   - algorithms library;
+  - 1-DP, 2-DP, knapsack;
+  - Greedy algorithms;
+  - Divide et impera;
+  - String algorithms;
+  - Mo's Algorithms;
+  - CDQ Divide et Impera;
+  - Parallel binary search algorithms;
+  - Modular arithmetic, Combinatorics, Primality, GCD, LCM;
+  
 
 ### MORE TO COME
